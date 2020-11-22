@@ -1,10 +1,10 @@
 export default [
   {
     id: 1,
-    name: 'Bertie Yates',
-    age: 29,
+    name: 'Peter Dunk',
+    age: 44,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
+      'https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000',
   },
   {
     id: 2,
@@ -33,5 +33,12 @@ export default [
     age: 29,
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+  },
+  {
+    id: 6,
+    name: 'Bertie Yates',
+    age: 29,
+    image:
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
   },
 ];
